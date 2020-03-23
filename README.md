@@ -1,4 +1,4 @@
-# ExamenFinalGMM
+# Examen Final Bases De Datos
 
 # Almuno: Gorayeb Mollinedo Manuel
 
