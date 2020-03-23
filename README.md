@@ -1,5 +1,5 @@
 # ExamenFinalGMM
 
-# Gorayeb Mollinedo Manuel
+# Almuno: Gorayeb Mollinedo Manuel
 
-# 47754
+# Codigo: 47754
